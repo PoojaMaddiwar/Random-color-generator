@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+}
+
+.btn_ele{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.btn_ele button {
+    padding: 10px;
+   border-radius: 5px;
+   border: 0cap;
+   background-color: brown;
+   color: white;
+}
+
+.back{
+    
+    width: 100wv;
+    height: 100vh;
+}
+
+.colorname{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
